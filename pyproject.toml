@@ -1,0 +1,33 @@
+[project]
+name = "hairly"
+version = "0.1.0"
+description = "A LINE bot for haircare product recommendation using FastAPI, OpenAI, and Pinecone"
+authors = [
+  { name = "AntonShih", email = "anton.shih7@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+
+
+dependencies = [
+  "fastapi>=0.110.0",
+  "uvicorn>=0.27.1",
+  "line-bot-sdk>=2.4.2",
+  "openai>=1.3.9",
+  "pinecone-client>=3.0.0",
+  "numpy>=1.26.4",
+  "pydantic>=1.10.13",
+  "python-dotenv>=1.0.0",
+  "requests>=2.31.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "black>=23.9.1",
+  "isort>=5.12.0",
+  "pytest>=7.4.2"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
