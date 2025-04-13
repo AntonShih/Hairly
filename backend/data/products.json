@@ -1,0 +1,492 @@
+[
+    {
+      "product_id": "aveda001",
+      "name": "涼感去角質洗髮精",
+      "description": "溫和去角質，沁涼成分幫助鎮靜紓緩頭皮。",
+      "price": "NT$1,080",
+      "image": "https://example.com/images/aveda001.jpg",
+      "features": ["溫和去角質", "舒緩頭皮", "清涼感"],
+      "scalp_type": "乾性、油性、角質堆積",
+      "scent": "橙花、檸檬、綠薄荷"
+    },
+    {
+      "product_id": "aveda002",
+      "name": "深層修護護髮素",
+      "description": "滋養髮絲，強化髮根，修護受損髮質。",
+      "price": "NT$1,250",
+      "image": "https://example.com/images/aveda002.jpg",
+      "features": ["修護毛躁", "髮尾柔順", "保濕滋養"],
+      "scalp_type": "乾性、染燙受損",
+      "scent": "薰衣草、天竺葵"
+    },
+    {
+      "product_id": "aveda003",
+      "name": "蓬鬆控油洗髮精",
+      "description": "控油蓬鬆、減少扁塌，適合易出油頭皮。",
+      "price": "NT$980",
+      "image": "https://example.com/images/aveda003.jpg",
+      "features": ["蓬鬆感", "控油", "減少出油頻率"],
+      "scalp_type": "油性、細軟髮",
+      "scent": "葡萄柚、薄荷"
+    },
+    {
+      "product_id": "aveda004",
+      "name": "舒敏頭皮精華",
+      "description": "舒緩敏感不適，改善頭皮乾癢現象。",
+      "price": "NT$1,300",
+      "image": "https://example.com/images/aveda004.jpg",
+      "features": ["舒緩敏感", "鎮定頭皮", "防止發癢"],
+      "scalp_type": "敏感性頭皮",
+      "scent": "洋甘菊、蘆薈"
+    },
+    {
+      "product_id": "aveda005",
+      "name": "養髮強韌洗髮精",
+      "description": "補充髮根營養，減少斷髮掉髮。",
+      "price": "NT$1,180",
+      "image": "https://example.com/images/aveda005.jpg",
+      "features": ["強化髮根", "減少掉髮", "滋養毛囊"],
+      "scalp_type": "脫髮、壓力型掉髮",
+      "scent": "迷迭香、茶樹"
+    },
+    {
+      "product_id": "aveda006",
+      "name": "每日平衡洗髮乳",
+      "description": "溫和清潔、不刺激，每日使用也安心。",
+      "price": "NT$860",
+      "image": "https://example.com/images/aveda006.jpg",
+      "features": ["日常清潔", "不刺激", "洗後柔順"],
+      "scalp_type": "中性、敏感頭皮",
+      "scent": "青草、柑橘"
+    },
+    {
+      "product_id": "aveda007",
+      "name": "去屑清爽洗髮精",
+      "description": "有效對抗頭皮屑，維持頭皮健康環境。",
+      "price": "NT$990",
+      "image": "https://example.com/images/aveda007.jpg",
+      "features": ["去屑", "抗菌", "清涼舒適"],
+      "scalp_type": "油性、頭皮屑",
+      "scent": "茶樹、尤加利"
+    },
+    {
+      "product_id": "aveda008",
+      "name": "深層清潔洗髮乳",
+      "description": "洗去多餘油脂與造型殘留，還原頭皮潔淨。",
+      "price": "NT$1,100",
+      "image": "https://example.com/images/aveda008.jpg",
+      "features": ["深層清潔", "去油", "恢復清爽"],
+      "scalp_type": "油性、厚重產品使用者",
+      "scent": "萊姆、海鹽"
+    },
+    {
+      "product_id": "aveda009",
+      "name": "高保濕修護髮膜",
+      "description": "針對極度乾燥髮質，提供深層滋潤與修護。",
+      "price": "NT$1,580",
+      "image": "https://example.com/images/aveda009.jpg",
+      "features": ["高保濕", "深層修護", "恢復彈性"],
+      "scalp_type": "乾性、自然捲、粗硬髮",
+      "scent": "椰奶、乳油木果"
+    },
+    {
+      "product_id": "aveda010",
+      "name": "彈力蓬鬆護髮噴霧",
+      "description": "讓細軟髮更蓬鬆有型，不易扁塌。",
+      "price": "NT$880",
+      "image": "https://example.com/images/aveda010.jpg",
+      "features": ["增加蓬鬆感", "定型", "防潮濕扁塌"],
+      "scalp_type": "細軟髮、油性髮質",
+      "scent": "玫瑰、柑橘"
+    },
+    {
+        "product_id": "aveda011",
+        "name": "瞬效柔順精華露",
+        "description": "立即撫平毛躁，使頭髮滑順易梳。",
+        "price": "NT$1,200",
+        "image": "https://example.com/images/aveda011.jpg",
+        "features": ["抗毛躁", "柔順光澤", "快速吸收"],
+        "scalp_type": "乾性、中性",
+        "scent": "茉莉、香草"
+      },
+      {
+        "product_id": "aveda012",
+        "name": "強韌護髮安瓶",
+        "description": "高濃度養分注入，重建髮絲結構，防止斷裂。",
+        "price": "NT$1,600",
+        "image": "https://example.com/images/aveda012.jpg",
+        "features": ["強化結構", "抗斷裂", "滋養修復"],
+        "scalp_type": "受損、染燙髮",
+        "scent": "廣藿香、乳香"
+      },
+      {
+        "product_id": "aveda013",
+        "name": "去油舒壓洗髮精",
+        "description": "深層控油配方，洗後舒適無負擔。",
+        "price": "NT$1,050",
+        "image": "https://example.com/images/aveda013.jpg",
+        "features": ["控油", "舒壓", "潔淨感"],
+        "scalp_type": "油性頭皮",
+        "scent": "薰衣草、迷迭香"
+      },
+      {
+        "product_id": "aveda014",
+        "name": "染後護色洗髮乳",
+        "description": "鎖住染後色彩，延長持久度與光澤。",
+        "price": "NT$1,180",
+        "image": "https://example.com/images/aveda014.jpg",
+        "features": ["護色", "延長持久度", "修復髮絲"],
+        "scalp_type": "染燙髮質",
+        "scent": "莓果、玫瑰"
+      },
+      {
+        "product_id": "aveda015",
+        "name": "水感保濕洗髮精",
+        "description": "保濕不厚重，維持頭髮彈性與光澤。",
+        "price": "NT$980",
+        "image": "https://example.com/images/aveda015.jpg",
+        "features": ["輕盈保濕", "彈性柔順", "不黏膩"],
+        "scalp_type": "中性、乾性",
+        "scent": "海洋、蘆薈"
+      },
+      {
+        "product_id": "aveda016",
+        "name": "頭皮淨化噴霧",
+        "description": "隨身清潔頭皮油脂與異味，保持清新。",
+        "price": "NT$760",
+        "image": "https://example.com/images/aveda016.jpg",
+        "features": ["除臭", "去油", "外出急救"],
+        "scalp_type": "油性、通勤族",
+        "scent": "薄荷、青檸"
+      },
+      {
+        "product_id": "aveda017",
+        "name": "強效防熱護髮乳",
+        "description": "預防熱傷害，隔離吹整高溫。",
+        "price": "NT$1,080",
+        "image": "https://example.com/images/aveda017.jpg",
+        "features": ["防熱", "抗斷裂", "吹整防護"],
+        "scalp_type": "所有髮質適用",
+        "scent": "檀香、蘭花"
+      },
+      {
+        "product_id": "aveda018",
+        "name": "夜間修護髮精華",
+        "description": "夜間修護受損部位，早晨秀髮煥然一新。",
+        "price": "NT$1,490",
+        "image": "https://example.com/images/aveda018.jpg",
+        "features": ["深層修護", "夜間使用", "保濕鎖水"],
+        "scalp_type": "乾性、受損髮",
+        "scent": "洋甘菊、琥珀"
+      },
+      {
+        "product_id": "aveda019",
+        "name": "絲滑保濕髮油",
+        "description": "修護乾燥分岔，使髮尾滑順有光澤。",
+        "price": "NT$1,180",
+        "image": "https://example.com/images/aveda019.jpg",
+        "features": ["保濕", "修護髮尾", "防分岔"],
+        "scalp_type": "乾性髮質",
+        "scent": "椰子、香草"
+      },
+      {
+        "product_id": "aveda020",
+        "name": "控油蓬鬆粉末",
+        "description": "吸附油脂，快速讓頭髮恢復蓬鬆感。",
+        "price": "NT$880",
+        "image": "https://example.com/images/aveda020.jpg",
+        "features": ["控油", "造型輔助", "無需水洗"],
+        "scalp_type": "油性、細軟髮",
+        "scent": "茶樹、竹子"
+      },
+      {
+        "product_id": "aveda021",
+        "name": "敏感頭皮舒緩洗髮乳",
+        "description": "溫和無香精配方，有效舒緩敏感紅癢。",
+        "price": "NT$1,150",
+        "image": "https://example.com/images/aveda021.jpg",
+        "features": ["無香精", "低敏", "舒緩紅癢"],
+        "scalp_type": "敏感性頭皮",
+        "scent": "無香"
+      },
+      {
+        "product_id": "aveda022",
+        "name": "彈性捲髮造型乳",
+        "description": "打造有彈性的自然捲度，撫平毛躁。",
+        "price": "NT$980",
+        "image": "https://example.com/images/aveda022.jpg",
+        "features": ["捲髮定型", "抗毛躁", "自然線條"],
+        "scalp_type": "自然捲、中性",
+        "scent": "柑橘、玫瑰"
+      },
+      {
+        "product_id": "aveda023",
+        "name": "淨化髮根精華液",
+        "description": "強化髮根與毛囊，改善頭皮環境。",
+        "price": "NT$1,320",
+        "image": "https://example.com/images/aveda023.jpg",
+        "features": ["養髮", "防掉髮", "強健毛囊"],
+        "scalp_type": "脫髮、壓力型掉髮",
+        "scent": "靈芝、松木"
+      },
+      {
+        "product_id": "aveda024",
+        "name": "海鹽淨化頭皮膜",
+        "description": "海鹽顆粒去除角質與油脂堆積，深層清潔。",
+        "price": "NT$1,280",
+        "image": "https://example.com/images/aveda024.jpg",
+        "features": ["去角質", "深層清潔", "控油"],
+        "scalp_type": "油性、角質厚重",
+        "scent": "海鹽、薄荷"
+      },
+      {
+        "product_id": "aveda025",
+        "name": "日常修護洗髮精",
+        "description": "補水修護，每日使用維持髮質健康。",
+        "price": "NT$1,020",
+        "image": "https://example.com/images/aveda025.jpg",
+        "features": ["保濕", "日常使用", "滋養"],
+        "scalp_type": "中性、乾性",
+        "scent": "青蘋果、玫瑰"
+      },
+      {
+        "product_id": "aveda026",
+        "name": "控油蓬鬆噴霧",
+        "description": "快速恢復蓬鬆不扁塌，吸附油脂。",
+        "price": "NT$890",
+        "image": "https://example.com/images/aveda026.jpg",
+        "features": ["控油", "蓬鬆感", "無需沖洗"],
+        "scalp_type": "油性、細軟髮",
+        "scent": "葡萄柚、雪松"
+      },
+      {
+        "product_id": "aveda027",
+        "name": "滋養修復髮霜",
+        "description": "深層滋養與保濕，提升髮絲彈性與柔亮。",
+        "price": "NT$1,360",
+        "image": "https://example.com/images/aveda027.jpg",
+        "features": ["保濕", "彈性", "光澤感"],
+        "scalp_type": "乾性髮質",
+        "scent": "椰子油、薰衣草"
+      },
+      {
+        "product_id": "aveda028",
+        "name": "免沖洗護髮露",
+        "description": "護髮不黏膩，隨時修護髮絲，保濕清爽。",
+        "price": "NT$1,100",
+        "image": "https://example.com/images/aveda028.jpg",
+        "features": ["免沖洗", "修護", "保濕"],
+        "scalp_type": "所有髮質",
+        "scent": "蘆薈、葡萄柚"
+      },
+      {
+        "product_id": "aveda029",
+        "name": "豐盈髮根精華",
+        "description": "賦活髮根，增加髮量豐盈感。",
+        "price": "NT$1,280",
+        "image": "https://example.com/images/aveda029.jpg",
+        "features": ["豐盈感", "髮根賦活", "強健髮絲"],
+        "scalp_type": "細軟髮、稀疏髮",
+        "scent": "薄荷、佛手柑"
+      },
+      {
+        "product_id": "aveda030",
+        "name": "控油淨膚洗髮精",
+        "description": "有效去油，改善頭皮出油問題。",
+        "price": "NT$990",
+        "image": "https://example.com/images/aveda030.jpg",
+        "features": ["去油", "調理皮脂", "抗油光"],
+        "scalp_type": "油性頭皮",
+        "scent": "檸檬草、茶樹"
+      },
+      {
+        "product_id": "aveda031",
+        "name": "抗老化頭皮精華",
+        "description": "專為熟齡頭皮設計，幫助延緩老化、提升髮根彈性。",
+        "price": "NT$1,800",
+        "image": "https://example.com/images/aveda031.jpg",
+        "features": ["抗老化", "強健髮根", "彈性修復"],
+        "scalp_type": "熟齡頭皮",
+        "scent": "沉香、乳香"
+      },
+      {
+        "product_id": "aveda032",
+        "name": "兒童專用低敏洗髮乳",
+        "description": "不流淚配方，溫和潔淨，不刺激兒童細緻頭皮。",
+        "price": "NT$580",
+        "image": "https://example.com/images/aveda032.jpg",
+        "features": ["低敏", "不流淚", "兒童專用"],
+        "scalp_type": "兒童",
+        "scent": "香蕉、香草"
+      },
+      {
+        "product_id": "aveda033",
+        "name": "極地涼感控油洗髮精",
+        "description": "極致清涼感配方，瞬間冰鎮頭皮，油脂秒吸收。",
+        "price": "NT$1,100",
+        "image": "https://example.com/images/aveda033.jpg",
+        "features": ["強效控油", "冰鎮舒緩", "立即清爽"],
+        "scalp_type": "出油嚴重",
+        "scent": "極地薄荷、冰川青檸"
+      },
+      {
+        "product_id": "aveda034",
+        "name": "健身族清潔洗髮乳",
+        "description": "適合天天運動後使用，洗去汗味與油脂殘留。",
+        "price": "NT$980",
+        "image": "https://example.com/images/aveda034.jpg",
+        "features": ["去汗味", "深層潔淨", "防異味"],
+        "scalp_type": "運動族群、易出汗",
+        "scent": "茶樹、檸檬香茅"
+      },
+      {
+        "product_id": "aveda035",
+        "name": "自然系草本蓬鬆洗髮精",
+        "description": "全天然植萃，不含矽靈，給髮絲自由呼吸的蓬鬆力。",
+        "price": "NT$1,150",
+        "image": "https://example.com/images/aveda035.jpg",
+        "features": ["天然無矽", "蓬鬆感", "無負擔"],
+        "scalp_type": "細軟髮、敏感肌",
+        "scent": "青草、鼠尾草"
+      },
+      {
+        "product_id": "aveda036",
+        "name": "科技奈米修護精華",
+        "description": "奈米滲透技術，精準修補受損髮鏈，打造科技護理體驗。",
+        "price": "NT$1,680",
+        "image": "https://example.com/images/aveda036.jpg",
+        "features": ["奈米修護", "科技導入", "抗熱斷裂"],
+        "scalp_type": "燙染後受損髮",
+        "scent": "綠茶、銀杏"
+      },
+      {
+        "product_id": "aveda037",
+        "name": "黑髮亮澤洗髮精",
+        "description": "富含黑豆與黑芝麻萃取，恢復自然黑亮光澤。",
+        "price": "NT$1,200",
+        "image": "https://example.com/images/aveda037.jpg",
+        "features": ["黑髮護色", "自然亮澤", "抗髮色暗沉"],
+        "scalp_type": "黑髮族群",
+        "scent": "黑豆、芝麻"
+      },
+      {
+        "product_id": "aveda038",
+        "name": "紫外線防護護髮霧",
+        "description": "專為戶外活動設計，防曬隔離紫外線傷害。",
+        "price": "NT$880",
+        "image": "https://example.com/images/aveda038.jpg",
+        "features": ["防曬", "抗UV", "戶外護髮"],
+        "scalp_type": "所有髮質",
+        "scent": "檸檬、紅橙"
+      },
+      {
+        "product_id": "aveda039",
+        "name": "冬季乾燥抗靜電洗髮乳",
+        "description": "解決冬季乾燥引起的靜電與毛躁問題。",
+        "price": "NT$1,080",
+        "image": "https://example.com/images/aveda039.jpg",
+        "features": ["抗靜電", "保濕", "柔順效果"],
+        "scalp_type": "乾性、冬季乾癢",
+        "scent": "乳木果、柑橘"
+      },
+      {
+        "product_id": "aveda041",
+        "name": "頭皮去味抗菸洗髮乳",
+        "description": "針對吸菸者設計，有效去除菸味與異味，維持清新。",
+        "price": "NT$1,100",
+        "image": "https://example.com/images/aveda041.jpg",
+        "features": ["去除菸味", "抗氣味殘留", "深層清潔"],
+        "scalp_type": "油性、吸菸者",
+        "scent": "檸檬葉、黑胡椒"
+      },
+      {
+        "product_id": "aveda042",
+        "name": "空汙隔離淨化洗髮精",
+        "description": "抵禦都市空氣污染對頭皮的損害，建構保護層。",
+        "price": "NT$1,280",
+        "image": "https://example.com/images/aveda042.jpg",
+        "features": ["防空汙", "抗污染粒子", "抗氧化"],
+        "scalp_type": "都市通勤族",
+        "scent": "竹葉、香茅"
+      },
+      {
+        "product_id": "aveda043",
+        "name": "月經期專用舒緩洗髮乳",
+        "description": "配方溫和舒壓，專為生理期間情緒與頭皮敏感設計。",
+        "price": "NT$1,180",
+        "image": "https://example.com/images/aveda043.jpg",
+        "features": ["舒壓", "女性專用", "低刺激"],
+        "scalp_type": "經期敏感頭皮",
+        "scent": "玫瑰天竺葵、薰衣草"
+      },
+      {
+        "product_id": "aveda044",
+        "name": "極簡無香修護洗髮精",
+        "description": "極簡主義配方，完全無香、無添加，修護不打擾。",
+        "price": "NT$1,050",
+        "image": "https://example.com/images/aveda044.jpg",
+        "features": ["無香", "極簡成分", "無矽修護"],
+        "scalp_type": "過敏族、極敏感肌",
+        "scent": "無香"
+      },
+      {
+        "product_id": "aveda045",
+        "name": "陽光嗜好者控油噴霧",
+        "description": "防曬＋控油雙效設計，適合戶外活動者隨時使用。",
+        "price": "NT$1,090",
+        "image": "https://example.com/images/aveda045.jpg",
+        "features": ["控油", "防曬", "即時清爽"],
+        "scalp_type": "油性、戶外族群",
+        "scent": "橙花、檸檬草"
+      },
+      {
+        "product_id": "aveda046",
+        "name": "旅行用3合1洗髮沐浴露",
+        "description": "出差與旅行最佳選擇，洗髮、沐浴、臉部潔淨一次搞定。",
+        "price": "NT$720",
+        "image": "https://example.com/images/aveda046.jpg",
+        "features": ["多功能", "旅行專用", "輕便清爽"],
+        "scalp_type": "所有髮質",
+        "scent": "青檸、綠茶"
+      },
+      {
+        "product_id": "aveda047",
+        "name": "頭皮微生態平衡精華",
+        "description": "透過益菌調節頭皮微生態環境，提升防護力。",
+        "price": "NT$1,500",
+        "image": "https://example.com/images/aveda047.jpg",
+        "features": ["益菌科技", "生態平衡", "防禦屏障"],
+        "scalp_type": "敏弱型頭皮",
+        "scent": "乳酸菌、洋甘菊"
+      },
+      {
+        "product_id": "aveda048",
+        "name": "防潮抗濕造型噴霧",
+        "description": "針對潮濕天氣設計，定型同時防止蓬鬆崩塌。",
+        "price": "NT$1,100",
+        "image": "https://example.com/images/aveda048.jpg",
+        "features": ["抗濕", "長效定型", "控膨"],
+        "scalp_type": "細軟髮、中長髮",
+        "scent": "柚香、白麝香"
+      },
+      {
+        "product_id": "aveda049",
+        "name": "頭皮舒壓按摩膏",
+        "description": "搭配按摩使用，促進頭皮循環與放鬆。",
+        "price": "NT$1,320",
+        "image": "https://example.com/images/aveda049.jpg",
+        "features": ["按摩輔助", "促進循環", "身心放鬆"],
+        "scalp_type": "壓力型掉髮、緊繃感",
+        "scent": "迷迭香、雪松"
+      },
+      {
+        "product_id": "aveda050",
+        "name": "白髮遮蓋洗髮乳",
+        "description": "利用天然染料成分，長期使用可淡化白髮。",
+        "price": "NT$1,400",
+        "image": "https://example.com/images/aveda050.jpg",
+        "features": ["遮白", "漸進式染髮", "天然配方"],
+        "scalp_type": "白髮初期族群",
+        "scent": "靛藍、薄荷"
+      }
+]    
